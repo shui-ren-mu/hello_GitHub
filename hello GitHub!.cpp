@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    printf("hello GitHub!");
+    printf("Hello GitHub!");
     return 0;
 }
